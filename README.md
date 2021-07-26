@@ -1,6 +1,7 @@
 # Summarizer
-Requirements:
-
+<b>Requirements:</b>
+<li>
+  <ol>
 beautifulsoup4                        4.7.0
 
 bs4                                   0.0.1
@@ -16,3 +17,4 @@ sumy                                  0.7.0
 thinc                                 6.12.1
 
 urllib3                               1.24.1 
+    </li>
