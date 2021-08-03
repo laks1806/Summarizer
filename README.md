@@ -10,3 +10,4 @@
 <li>thinc                                 6.12.1</li>
 <li>urllib3                               1.24.1 </li>
     </ul>
+![image](https://user-images.githubusercontent.com/67590424/128057179-43df925a-6b67-4d4c-9ddb-85e1ec25fae2.png)
